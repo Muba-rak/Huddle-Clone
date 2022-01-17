@@ -1,0 +1,31 @@
+@media (min-width:320px)  {
+    .last{
+        text-align: center;
+        margin-top: 60px;
+    }
+    .last img{
+        width: 280px;
+    }
+}
+@media (min-width:375px)  {}
+@media (min-width:420px)  {}
+@media (min-width:768px)  {
+    .last{
+        margin-top: 50px;
+    }
+    .last img{
+        width: 700px;
+        height: 700px;
+    }
+
+}
+@media (min-width:1024px)  {
+    .last{
+        margin-top: 50px;
+    }
+    .last img{
+        width: 980px;
+    }
+
+}
+

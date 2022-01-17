@@ -1,0 +1,42 @@
+@media (min-width:320px)  {
+    .headLogo{
+        display: inline-flex;
+    }
+    .btn{
+        background-color: white;
+        color:black;
+        width: 130px;
+        height: 30px;
+        border-radius: 15px;
+        border-color: pink;
+        margin-left: 40px;
+        margin-top: 20px;
+    }
+
+ }
+@media (min-width:375px)  { 
+    .btn{
+        margin-left: 100px;
+    }
+}
+@media (min-width:420px)  {
+    .btn{
+        margin-left: 150px;
+    }
+ }
+
+@media (min-width:768px)  {
+    .btn{
+        margin-left: 450px;
+    }
+}
+@media (min-width:1024px)  {
+    .btn{
+        margin-left: 1220px;
+    }
+ }
+
+
+
+
+

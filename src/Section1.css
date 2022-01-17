@@ -1,0 +1,40 @@
+@media (min-width:320px)  {
+    .section1{
+        text-align: center;
+        margin-top: 50px;
+    }
+    .section1 h1{
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .section1 button{
+        background-color: #f78ea0;
+        color: white;
+        width: 300px;
+        height: 70px;
+        border-style: none;
+        border-radius: 40px;
+    }
+}
+@media (min-width:375px)  {}
+@media (min-width:420px)  {}
+@media (min-width:768px)  {
+    .section1 button{
+        width: 500px;
+    }
+}
+@media (min-width:1024px)  {
+    .section1 p{
+        width: 600px;
+        margin: auto;
+    }
+    .section1 h1{
+        font-size: 50px;
+    }
+    .section1 button{
+        width: 500px;
+    }
+}
+
+
+
